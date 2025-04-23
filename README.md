@@ -7,7 +7,7 @@
 ---
 
 ## 🧠 Summary  
-Senior Full Stack Developer, System Analyst, and Solution Architect with 14+ years of experience in application development, system/data analysis, DevOps, and cloud solutions. Proven track record delivering high-impact, scalable, and maintainable software for government (Government of Alberta) and private sectors (banking, telecom, insurance). Expert in Angular, NestJS, Node.js, MongoDB, GraphQL, Azure, AWS, and CI/CD automation. Passionate about modern web architecture, cloud-native applications, and leading cross-functional teams. I’m passionate about building scalable systems that empower teams and end-users.
+Experienced technology professional with over 14 years of expertise in application development, systems and data analysis, DevOps, and cloud-based solutions. Proven ability to deliver scalable, high-impact, and maintainable software across both public (Government of Alberta) and private sectors, including banking, telecommunications, and insurance. Skilled in modern web technologies such as Angular, NestJS, Node.js, MongoDB, and GraphQL, with deep experience in cloud platforms like Azure and AWS. Adept at implementing CI/CD pipelines and driving cloud-native application development. Recognized for a strong passion for modern web architecture, building scalable systems, and leading cross-functional teams to create solutions that empower both development teams and end-users.
 
 ---
 
