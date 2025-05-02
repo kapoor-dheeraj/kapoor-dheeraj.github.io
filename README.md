@@ -384,6 +384,6 @@ ___
 ## 📣 Call to Action
 **Looking for a Senior Full Stack Developer, Solution Architect or Tech Team Lead for your next big project in Edmonton, Alberta or remotely?** Let’s connect and build something impactful together!
 
-<a href="Dheeraj-Kapoor-ATS-Resume.md" download>Download ATS-Friendly Resume (Markdown)</a>
+<a href="Dheeraj_Kapoor_Resume.docx" download>Resume (MS Word)</a>
 
 **Note:** Kindly refrain from spamming.
