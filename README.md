@@ -1,4 +1,5 @@
-# Dheeraj Kapoor  
+# Dheeraj Kapoor
+
 **Senior System Analyst | Full Stack Developer | Solution Architect**  
 📍 Edmonton, Alberta, Canada  
 🎓 M.Eng – <a href="https://www.ualberta.ca/en/index.html" target="_blank">University of Alberta</a> | B.Eng – <a href="https://www.dcrustm.ac.in/" target="_blank">DCRUST</a>  
@@ -6,24 +7,27 @@
 
 ---
 
-## 🧠 Summary  
+## 🧠 Summary
+
 Experienced technology professional with over 14 years of expertise in application development, systems and data analysis, DevOps, and cloud-based solutions. Proven ability to deliver scalable, high-impact, and maintainable software across both public (Government of Alberta) and private sectors, including banking, telecommunications, and insurance. Skilled in modern web technologies such as Angular, NestJS, Node.js, MongoDB, and GraphQL, with deep experience in cloud platforms like Azure and AWS. Adept at implementing CI/CD pipelines and driving cloud-native application development. Recognized for a strong passion for modern web architecture, building scalable systems, and leading cross-functional teams to create solutions that empower both development teams and end-users.
 
 ---
 
-## 🛠️ Skills  
-- **Languages:** TypeScript, JavaScript, Java, Python, SQL, C#, VBA  
-- **Frontend:** Angular, HTML/CSS, GoA Design System, Material Design  
-- **Backend:** NestJS, Express, Node.js, GraphQL, Apollo, REST APIs  
-- **Databases:** MongoDB, MS SQL Server, CosmosDB, MySQL  
-- **DevOps & Cloud:** GitHub Actions, Jenkins, Azure, AWS, OpenShift, Docker, Kubernetes  
-- **Monitoring:** Azure App Insights, OpenTelemetry  
-- **ETL/BI:** SSIS, SSRS, SSAS, Power BI, ADF  
+## 🛠️ Skills
+
+- **Languages:** TypeScript, JavaScript, Java, Python, SQL, C#, VBA
+- **Frontend:** Angular, HTML/CSS, GoA Design System, Material Design
+- **Backend:** NestJS, Express, Node.js, GraphQL, Apollo, REST APIs
+- **Databases:** MongoDB, MS SQL Server, CosmosDB, MySQL
+- **DevOps & Cloud:** GitHub Actions, Jenkins, Azure, AWS, OpenShift, Docker, Kubernetes
+- **Monitoring:** Azure App Insights, OpenTelemetry
+- **ETL/BI:** SSIS, SSRS, SSAS, Power BI, ADF
 - **Other:** Agile, Git, TFS, Nx, Microservices, CI/CD, Test Automation
 
 ---
 
-## 🧩 Projects  
+## 🧩 Projects
+
 <details open>
   <summary>
     <strong>16. Online claims reimbursement (OCR)</strong> —  
@@ -341,10 +345,11 @@ Experienced technology professional with over 14 years of expertise in applicati
 
 ---
 
-## 📜 Certifications  
-- **Microsoft Certified Professional (Power BI, SQL Server)**  
-- **ITIL V3 Foundation**  
-- **Certified Associate in Project Management (CAPM)**  
+## 📜 Certifications
+
+- **Microsoft Certified Professional (Power BI, SQL Server)**
+- **ITIL V3 Foundation**
+- **Certified Associate in Project Management (CAPM)**
 - **Sun Certified Java Programmer (SCJP)**
 
 ---
@@ -368,20 +373,49 @@ I’ve had the privilege of being recognized for my contributions through variou
 </details>
 <p></p>
 
-___
+---
 
-## 🌱 Interests  
+## ⭐ Testimonials
+
+"Thanks for being such an exceptional professional, Dheeraj. Thanks for always going the extra mile to make sure your team is on track and thriving.
+Its a pleasure working with you and we hope it continues."
+— Lotanna
+
+"Will miss you Dheeraj! It was great working with you and wish you all the best! Hope to work with you again!" ❤️
+— Geeta Daniel
+
+"Been good working with you Dheeraj. I hope you come back soon."
+— David Kerins
+
+"Thank you for being such a great part of the team... truly inspiring. We will miss you and hope this is just a ‘see you later’."
+— Antarpreet
+
+"We'll truly miss your presence and leadership on our team. Wishing you all the best!"
+— Job Delos Santos
+
+"Sometimes I think Dheeraj is AI. You do so much work man!" 🤖🔥
+— Sam Merchant
+
+"Thanks for sharing code and KT for balance calculations... Looking at the code, it looks good to me. I know it's challenging — great work!"
+— AlexK
+
+---
+
+## 🌱 Interests
+
 • Modern Web Architecture • App Modernization • CI/CD Automation • Scalable Systems • Mentorship & Team Collaboration
 
 ---
 
 ## 🌐 Find Me Online
+
 - [LinkedIn (Dheeraj Kapoor)](https://www.linkedin.com/in/dheerajkapoor/) — Connect for professional networking, recommendations, and endorsements.
 - [Email](mailto:dheeraj.kapoor@live.com) — For consulting, collaboration, or freelance opportunities.
 
 ---
 
 ## 📣 Call to Action
+
 **Looking for a Senior Full Stack Developer, Solution Architect or Tech Team Lead for your next big project in Edmonton, Alberta or remotely?** Let’s connect and build something impactful together!
 
 <a href="Dheeraj_Kapoor_Resume.docx" download>Resume (MS Word)</a>
